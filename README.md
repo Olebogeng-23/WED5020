@@ -1,2 +1,2 @@
 # WED5020
-Web Development Projec
+Web Development Project
